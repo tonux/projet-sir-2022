@@ -37,7 +37,8 @@ La date limite de livraison sera le 08 Janvier 2023 à 00h.
 NB: Ce délai dépassé des pénalités sur la note s’appliquera. 
 
 ## Notation:
-- Completer les tests et la couverture : ** 5pts
-- CI/CD avec Jenkins- Sonar - Docker - Kubernetes :  ** 5pts
-- Rédaction document ** 10pts 
+- Completer les tests et la couverture : 5pts
+- CI/CD avec Jenkins- Sonar - Docker - Kubernetes :  5pts
+- Rédaction document 10pts 
 
+Bonne chance
