@@ -26,7 +26,7 @@ Cet exemple de projet vous montre comment utiliser différentes technologies pou
 - Lien github du projet 
 - Lien docker hub pour voir l’image envoyée
 
-#### Email: sambndongo@gmail.com
+#### email: sambndongo@gmail.com
 #### subject: PROJET-SIR-2022
 
 ## Spécificité sur le projet
