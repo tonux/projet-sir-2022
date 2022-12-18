@@ -46,4 +46,8 @@ NB: Ce délai dépassé des pénalités sur la note s’appliquera.
 - CI/CD avec Jenkins- Sonar - Docker - Kubernetes :  5pts
 - Rédaction document 10pts 
 
+
+Notes : 
+Pour les utiisateurs de Mac si vous avez un souci avec les commande dockers sur jenkins voir ici https://harshityadav95.medium.com/how-to-setup-docker-in-jenkins-on-mac-c45fe02f91c5
+
 Bonne chance
